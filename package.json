@@ -1,0 +1,18 @@
+{
+  "name": "genapi",
+  "version": "1.0.0",
+  "description": "Generic API retrieval tool",
+  "main": "obtain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "genapi"
+  },
+  "author": "Paul Reyneveld",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
